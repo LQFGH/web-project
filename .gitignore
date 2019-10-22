@@ -1,0 +1,3 @@
+# Project exclude paths
+/wenpack_test/dist/
+/wenpack_test/node_modules/
